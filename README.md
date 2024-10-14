@@ -10,12 +10,14 @@ Nama: Moch. Farris Alfiansyah Nim: 2409116079 Kelas: B
 ![image](https://github.com/user-attachments/assets/b18320a9-458a-49f1-956a-e6bc083bb74e)
 
 
-Ini adalah kode awal untuk menampilkan pilihan login sebagai admin atau user.
+Ini adalah kode awal untuk menampilkan pilihan login sebagai admin atau user pertama ada print untuk menampilkan pilihan untuk login kemudian ada input untuk menuliskan pilihan tersebut.
 
 ### output login
 ![image](https://github.com/user-attachments/assets/7a1c4be0-128a-4355-8903-e8761e49a3d3)
 
 output di atas menampilkan hasil dari kode diatas yang dimana pengguna diminta untuk login sebagai admin atau user.
+
+Pertama setelah muncul pilihan login, penngguna bisa melakukan login sebagai admin atau user dengan memilih no.1 untuk login sebagau admin dan no.2 untuk login sebagai user.
 
 
 ### Login admin
@@ -41,7 +43,7 @@ Ini adalah output ketika login sebagai admin.
 ![image](https://github.com/user-attachments/assets/00dd964a-e311-4275-b7ab-4dfc3a4a2cff)
 
 
-Ini adalah kode pilihan no.1.
+Ini adalah baris jika menginput pilihan no.1.
 
 
 
@@ -49,6 +51,9 @@ Ini adalah kode pilihan no.1.
 
 
 Ini adalah output ketika memilih menu nomer 1.
+
+Pertama akan di tampilkan tabel sebelum di tambahkan kemudian setelah di tambahkan data baru maka data yang ada pada tabel akan berubah dan tertambah.
+
 
 #### Menu no.2
 
